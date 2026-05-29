@@ -1,0 +1,4 @@
+Karşılaştırma,Fark (Ortalama),W istatistiği,p (raw),p (Bonferroni),Anlamlı (α=0.05)?
+RF vs ET,0.0066,71.0,0.334138,1.0,✗ Hayır
+RF vs GB,0.0142,41.0,0.015312,0.045937,✓ Evet
+ET vs GB,0.0076,79.0,0.34881,1.0,✗ Hayır
